@@ -1,0 +1,21 @@
+{
+  "name": "weatherwise",
+  "version": "1.0.0",
+  "description": "Smart Weather & Atmospheric Forecast Dashboard",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve . -p 5500",
+    "dev": "npx serve . -p 5500"
+  },
+  "keywords": [
+    "weather",
+    "forecast",
+    "dashboard",
+    "air-quality",
+    "open-meteo",
+    "glassmorphism",
+    "chartjs"
+  ],
+  "author": "WeatherWise Contributors",
+  "license": "MIT"
+}
